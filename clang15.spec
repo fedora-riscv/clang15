@@ -81,7 +81,7 @@ Patch10:    0002-clang-MinGW-Improve-detection-of-libstdc-headers-on-.patch
 Patch100:   fix-lto-path.patch
 %endif
 
-Patch10:    0001-Bring-back-riscv64-redhat-linux-triplet.patch
+Patch20:    0001-Bring-back-riscv64-redhat-linux-triplet.patch
 
 %if %{without compat_build}
 # Patches for clang-tools-extra
